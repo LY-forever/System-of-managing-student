@@ -1,4 +1,4 @@
-1.在helloworld里面也有一个基本的学生信息管理系统
+﻿1.在helloworld里面也有一个基本的学生信息管理系统
 2.和之前的相比,改动较大,所以就new repository
 
 
@@ -18,3 +18,9 @@ student_2.cpp
 interface_2.h
 interface_2.cpp
 main_2.cpp
+
+学了输入输出流后，对代码的重写
+此次重写，代码由三部分组成：
+student_3.h
+student_3.cpp
+student_main_3.cpp
